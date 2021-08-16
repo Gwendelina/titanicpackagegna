@@ -1,6 +1,6 @@
-from package_ml.get_data import Data
-from package_ml.preprocessing import Preprocessing
-from package_ml.model import Model
+from titanicpackagegna.get_data import Data
+from titanicpackagegna.preprocessing import Preprocessing
+from titanicpackagegna.model import Model
 # from package_ml.response_json import Response_json
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
